@@ -1,0 +1,1 @@
+Nice starter as usual on day 1. Been a while since I've done Python, but I think this is my first time using Counter. Always nice to learn something new!
