@@ -1,0 +1,1 @@
+There's probably a smarter way to solve part two, but I wrote it on a train at 6 in the morning before I'd had a cup of tea so the fact that it runs is good enough for me!
