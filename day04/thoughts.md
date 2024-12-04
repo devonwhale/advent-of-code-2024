@@ -1,0 +1,1 @@
+Got off on the wrong foot today, as I initially thought that the XMAS could change direction in the middle of the word. Once I spotted that was what I'd done, it was simple enough to re-write that part of the code to only check in one direction. Besides, I got to use recursion so today was a good day!
