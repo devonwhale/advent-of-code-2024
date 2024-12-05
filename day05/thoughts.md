@@ -1,0 +1,1 @@
+First time I've had to really rethink my approach after getting a wrong answer in part 2, but it was a fun one today. I was initially re-iterating through every rule and clearly getting some wire crossed somewhere.
