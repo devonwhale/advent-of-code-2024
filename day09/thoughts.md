@@ -1,0 +1,1 @@
+Really fun one today. Figured for the second part I'd kick off the really slow brute force while I started work on a more optimised solution, but it finished before I could finish. There's probably some sort of lesson in there.
