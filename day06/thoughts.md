@@ -1,1 +1,3 @@
 Clearly something I'm missing in part 2. Works fine with the test case but there's something not adding up in the actual data. If I get a chance I'll have a go at re-writing in a cleaner way and properly debugging it.
+
+Update: Well, I left the brute force running and it turns out that there's an off by 2 error somewhere in my more optimised approach. Can't for the life of me spot it though, but I have the right answer so that's what I'm focusing on
