@@ -1,0 +1,3 @@
+After a failed attempt at counting individual sides, I started counting corners which was much nicer...
+
+...right up until the point I had to deal with diagonally touch bits of the same shape. It's a bit messy but it gets the job done
