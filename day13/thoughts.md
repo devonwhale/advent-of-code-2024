@@ -1,0 +1,1 @@
+First time dragging in an external library, but Sympy made the equation work easy and I would have been here for a very long time without it. Made a slight assumption in my expection handling in Part 2 but it paid off, which is good because I would not have known what to do if it hadn't worked
